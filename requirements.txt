@@ -68,7 +68,6 @@ PyJWT==2.6.0
 Pympler==1.0.1
 pyOpenSSL==23.0.0
 pyparsing==3.0.9
-pypiwin32==223
 pyproj==3.2.1
 pyrsistent==0.19.3
 python-dateutil==2.8.2
